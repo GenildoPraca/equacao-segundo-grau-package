@@ -2,7 +2,7 @@
 
 Description. 
 The package equacao_segundo_grau is used to:
-	- Calcular o resultado de uma equação do segundo grau
+	- Calcular o resultado de uma equacao do segundo grau
 
 ## Installation
 
